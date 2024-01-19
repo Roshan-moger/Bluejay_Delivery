@@ -3,8 +3,18 @@
 
 
 
-#Assignment: 
+**Assignment**
 
-   With the support of the Apache POI Maven dependency, data was successfully extracted from an Excel spreadsheet. In the first case, a HashMap was employed to store entry and exit times, mapped to corresponding individuals, enabling the identification of those who worked for seven consecutive days. In the second case, the time difference between entry and exit times was calculated, specifically focusing on individuals who worked for durations greater than 1 hour and less than 10 hours. Finally, in the third case, individuals logging more than 14 hours of work were isolated using the same HashMap.
+  The Java program utilizes the Apache POI library to read data from an Excel spreadsheet. It consists of three main functionalities:
 
-   This approach facilitated a detailed analysis of work patterns and durations for effective workforce management.
+**Consecutive Working Days:**
+Identifies employees who worked consecutively for seven days.
+Uses a HashMap to map time data to individuals and checks for seven consecutive working days.
+
+**Short Breaks:**
+Finds employees with less than 10 hours of time between shifts but greater than 1 hour.
+Utilizes a HashMap to track breaks and calculates time differences between shifts.
+
+**Long Shifts:**
+Identifies employees who worked for more than 14 hours in a single shift.
+Uses a HashMap to store the end time of each shift and calculates the duration.
