@@ -1,0 +1,216 @@
+
+ A:------> Employees who worked consecutively for seven days:
+1------------------------------------------------------1
+     Employee Name: REsaXiaWE, XAis
+1------------------------------------------------------1
+     Employee Name: Sparks, KeWWeMh
+1------------------------------------------------------1
+     Employee Name: GaXCes, EXias XEpez
+1------------------------------------------------------1
+     Employee Name: CaMaXaWE, CeghaW
+1------------------------------------------------------1
+     Employee Name: Arias, FeXipe
+1------------------------------------------------------1
+     Employee Name: Merrazas, GriaW
+1------------------------------------------------------1
+     Employee Name: GarWes, JAsMiW
+1------------------------------------------------------1
+     Employee Name: FeXix, XeEWeX
+1------------------------------------------------------1
+     Employee Name: HerCEsiXXE, PedrE
+1------------------------------------------------------1
+     Employee Name: Xee, XaCar
+1------------------------------------------------------1
+     Employee Name: GaWks, GryaW
+1------------------------------------------------------1
+     Employee Name: MAake, CasiaWE
+1------------------------------------------------------1
+     Employee Name: SiWgh, MarAWpreeM
+1------------------------------------------------------1
+     Employee Name: DiWh, DaA
+1------------------------------------------------------1
+     Employee Name: ArEsMigAi, AXexaWder
+1------------------------------------------------------1
+     Employee Name: De Xa Cerda, IgWaciE
+1------------------------------------------------------1
+     Employee Name: REdrigAez, PedrE
+1------------------------------------------------------1
+     Employee Name: MraW, WiXXiaC Ha
+1------------------------------------------------------1
+     Employee Name: MAcker, CichaeX
+1------------------------------------------------------1
+     Employee Name: CaMXEck, CEhaCCed
+1------------------------------------------------------1
+     Employee Name: MaXeGi, ACirCasEAd
+1------------------------------------------------------1
+     Employee Name: PayaW, DaWieX
+1------------------------------------------------------1
+     Employee Name: ErMiz, AGigaiX
+1------------------------------------------------------1
+     Employee Name: ErEpeza, JEvaW
+1------------------------------------------------------1
+     Employee Name: VasqAez, AXfredE
+1------------------------------------------------------1
+     Employee Name: SavaWg, JEhW
+1------------------------------------------------------1
+     Employee Name: REdrigAez, XAis
+1------------------------------------------------------1
+     Employee Name: EasMCaW, CichaeX
+1------------------------------------------------------1
+     Employee Name: SiWgh, CaWpreeM
+1------------------------------------------------------1
+     Employee Name: SiWgh, JaspreeM
+1------------------------------------------------------1
+     Employee Name: SiWgXeMEW, REger
+1------------------------------------------------------1
+     Employee Name: PaXaciE, JEWaMhaW
+1------------------------------------------------------1
+     Employee Name: ErEzcE, SaAX
+1------------------------------------------------------1
+     Employee Name: CercadE, SaAX
+1------------------------------------------------------1
+     Employee Name: CEreira Jr, JEse
+1------------------------------------------------------1
+     Employee Name: AXvarez, Edgar
+1------------------------------------------------------1
+     Employee Name: PaAXE, KyXe
+1------------------------------------------------------1
+     Employee Name: XiWW, JAsMiW
+1------------------------------------------------------1
+     Employee Name: CaXdEWadE, AXfEWsE
+1------------------------------------------------------1
+     Employee Name: CeWdEza, Erik
+1------------------------------------------------------1
+     Employee Name: PerkiWs, MarraWce
+1------------------------------------------------------1
+     Employee Name: GAeWdia, JAaW CarXEs
+1------------------------------------------------------1
+     Employee Name: ZaCEra, Edward
+1------------------------------------------------------1
+     Employee Name: ArevaXE, JEse
+1------------------------------------------------------1
+     Employee Name: CErMes, DEAgXas Farid
+1------------------------------------------------------1
+     Employee Name: CercadE, CrisMiaW
+1------------------------------------------------------1
+     Employee Name: ZaCEra, CigAeX
+1------------------------------------------------------1
+     Employee Name: Caxies, MerreXX
+1------------------------------------------------------1
+     Employee Name: CcRAWWeX, REWaXd Xee
+1------------------------------------------------------1
+     Employee Name: CEMMa, Jessica
+1------------------------------------------------------1
+     Employee Name: Rivera AXcaWMar, GrayaW
+1------------------------------------------------------1
+     Employee Name: EXivares, FeXCaW
+1------------------------------------------------------1
+     Employee Name: ChaCErE, HEXger CarMiWez
+1------------------------------------------------------1
+     Employee Name: WiXXiaCs, MyrreXX
+1------------------------------------------------------1
+     Employee Name: CaraGiXXa, AWMhEWy
+1------------------------------------------------------1
+     Employee Name: GrACfieXd, CErWeXiAs
+1------------------------------------------------------1
+     Employee Name: Perez, EdwiW JiCeWez
+1------------------------------------------------------1
+     Employee Name: ArrAMia, AXexis ArMArE
+1------------------------------------------------------1
+     Employee Name: DiXXard, JEwaWW Cedric
+1------------------------------------------------------1
+     Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+1------------------------------------------------------1
+     Employee Name: XEpez WAWez, XAis
+1------------------------------------------------------1
+     Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+1------------------------------------------------------1
+     Employee Name: CeciWa, SiXvesMre Jr
+1------------------------------------------------------1
+     Employee Name: FaGiaW CiraWda, JEse
+1------------------------------------------------------1
+     Employee Name: HaCiXMEW, DeaWMe DevEW
+1------------------------------------------------------1
+     Employee Name: HAWMer, ViWceWM De PaAX
+1------------------------------------------------------1
+     Employee Name: AXcEcer, ECar JesAs
+1------------------------------------------------------1
+     Employee Name: IWGEAa, JeffersEW
+1------------------------------------------------------1
+     Employee Name: CesiWa CEreWE, KeviW FaGiaW
+1------------------------------------------------------1
+     Employee Name: HEGGie ErMega, SeGasMiaW CichaeX
+1------------------------------------------------------1
+     Employee Name: REdrigAez, GraWdEW AWgeX
+1------------------------------------------------------1
+     Employee Name: Diaz GaXvez, RicardE JEsAe
+1------------------------------------------------------1
+     Employee Name: EsMrada, JEse FeXix
+1------------------------------------------------------1
+     Employee Name: SMrickXaWd, REdWey EAgeWe
+1------------------------------------------------------1
+     Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+1------------------------------------------------------1
+     Employee Name: JerEWiCE CEraXes, CarXEs D
+1------------------------------------------------------1
+     Employee Name: DECiWgAez AviWa, CigAeX AWgeX
+1------------------------------------------------------1
+     Employee Name: CAevas ZavaXa, JErge XAis
+1------------------------------------------------------1
+     Employee Name: XariEs XaWdaverde, XAis ErWesME
+1------------------------------------------------------1
+     Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW
+1------------------------------------------------------1
+     Employee Name: CiGriaW DeXgadE, EXeWa S
+1------------------------------------------------------1
+     Employee Name: SaWchez, ArWAXfE
+1------------------------------------------------------1
+     Employee Name: VasqAez, JEhW SeGasMiaW
+1------------------------------------------------------1
+     Employee Name: GAMierrez, PedrE CigAeX
+1------------------------------------------------------1
+     Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+1------------------------------------------------------1
+     Employee Name: De XEs SaWMEs, JEseph XAis
+1------------------------------------------------------1
+     Employee Name: ViXXa, AXfredE AieXXE
+1------------------------------------------------------1
+     Employee Name: ArCeWMa FXEres, JEWaMhaW
+1------------------------------------------------------1
+     Employee Name: RaCEs HerWaWdez, AdieX ECar
+1------------------------------------------------------1
+     Employee Name: XariEs, Cesar GiEvaWWi
+1------------------------------------------------------1
+     Employee Name: AGeX, WaMhaW REGerM PeWa
+1------------------------------------------------------1
+     Employee Name: WgAyeW, RayCEWd
+1------------------------------------------------------1
+
+
+ B:------>Name of Employees who have less than 10 hours of time between shifts but greater than 1 hour:
+1-------------------------------------------------1
+  Employee Name: CaMaXaWE, CeghaW
+1-------------------------------------------------1
+  Employee Name: Xee, XaCar
+1-------------------------------------------------1
+  Employee Name: De Xa Cerda, IgWaciE
+1-------------------------------------------------1
+  Employee Name: MraW, WiXXiaC Ha
+1-------------------------------------------------1
+  Employee Name: CEreira Jr, JEse
+1-------------------------------------------------1
+  Employee Name: GrACfieXd, CErWeXiAs
+1-------------------------------------------------1
+  Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S
+1-------------------------------------------------1
+  Employee Name: HaCiXMEW, DeaWMe DevEW
+1-------------------------------------------------1
+  Employee Name: REdrigAez, GraWdEW AWgeX
+1-------------------------------------------------1
+
+
+ C:------> Name Employees who worked for more than 14 hours:
+1---------------------------------------------------------------------1
+  Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+1---------------------------------------------------------------------1
+
